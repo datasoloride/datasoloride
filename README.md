@@ -26,7 +26,7 @@
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2>🧑🏻‍💻Certifications: </h2>
+<h2>🎖️Certifications: </h2>
 
 - [Azure Databricks Platform Architect](https://credentials.databricks.com/f1eaf4ba-9751-4b21-986e-1f1567b6b6cb#gs.er60n9).
 - [Data & AI Governance with Unity Catalog](https://credentials.databricks.com/9cca8575-a4bc-4d4c-b1c8-7348f07a71f2#gs.er60nv).
